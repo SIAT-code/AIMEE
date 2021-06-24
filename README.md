@@ -19,8 +19,5 @@ The entry of the whole program is in the `main.py`. It includes the selection of
 ## Use agreement
 The SOFTWARE will be used for teaching or not-for-profit research purposes only. Permission is required for any commerical use of the Software.
 
-## Cite:
-
-> 
 
 
