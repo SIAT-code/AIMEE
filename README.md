@@ -4,8 +4,8 @@
 - torchvision=0.4.0
 - cudatoolkit=10.0 (View version: cat /usr/local/cuda/version.txt)
 - Python3
-- Rdkit (https://www.rdkit.org/docs/GettingStartedInPython.html#getting-started-with-the-rdkit-in-python)
-- transformers=2.7.0 (How to install: huggingface/transformers)
+- [Rdkit](https://www.rdkit.org/docs/GettingStartedInPython.html#getting-started-with-the-rdkit-in-python)
+- transformers=2.7.0 (How to install: [huggingface/transformers](https://github.com/huggingface/transformers))
 ## Model architecture:
 ![model](https://github.com/Siat-Code/AIMEE/blob/main/image/model.jpg)
 #### (1) Transformer pretrained model (for protein sequence)
