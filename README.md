@@ -15,6 +15,10 @@
 - The relevant files of this model are saved in the directory `./ProEmb`, meanwhile, other models of proteins are also saved in this directory.
 ## Usage:
 The entry of the whole program is in the `main.py`. It includes the selection of input and output files and the definition of parameters. It can run directly by `python main.py`.
+
+## Use agreement
+The SOFTWARE will be used for teaching or not-for-profit research purposes only. Permission is required for any commerical use of the Software.
+
 ## Cite:
 
 > 
