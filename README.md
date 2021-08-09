@@ -1,6 +1,5 @@
 # AIMEE
-This repo contains code and data for "A novel framework integrating AI model and enzymological experiments promotes identification of SARS-CoV-2 3CL protease inhibitors and
-activity-based probe", Briefing in Bioinformatics 2021 (https://doi.org/10.1093/bib/bbab301).
+This repo contains code and data for manuscript "A novel framework integrating AI model and enzymological experiments promotes identification of SARS-CoV-2 3CL protease inhibitors and activity-based probe" published in Briefing in Bioinformatics, 2021. (https://doi.org/10.1093/bib/bbab301)
 
 ## Reqirements:
 - Pytorch=1.2.0
